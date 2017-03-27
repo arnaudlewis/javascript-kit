@@ -4,6 +4,8 @@
 [![Build Status](https://api.travis-ci.org/prismicio/javascript-kit.png)](https://travis-ci.org/prismicio/javascript-kit)
 [![Code Climate](https://codeclimate.com/github/prismicio/javascript-kit.png)](https://codeclimate.com/github/prismicio/javascript-kit)
 [![Test Coverage](https://codeclimate.com/github/prismicio/javascript-kit/badges/coverage.svg)](https://codeclimate.com/github/prismicio/javascript-kit/coverage)
+[![Dependency Status](https://david-dm.org/prismicio/javascript-kitg.svg)](https://david-dm.org/prismicio/javascript-kit)
+
 
 * The [source code](https://github.com/prismicio/javascript-kit) is on Github.
 * The [Changelog](https://github.com/prismicio/javascript-kit/releases) is on Github's releases tab.
